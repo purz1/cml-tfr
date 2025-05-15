@@ -1,6 +1,6 @@
 # 📄Hematoscope CML-TFR project
 
-This repository contains the codes used in the manuscript:
+This repository contains the code used to analyze cytomorphology data in the manuscript:
 
 **Title**: *Granulopoietic Maturation State in the Bone Marrow at Diagnosis Predicts Treatment-Free Remission in CML*  
 **First author**: Mikko Purhonen
