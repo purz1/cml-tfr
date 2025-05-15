@@ -19,9 +19,4 @@ conda env create -f environment.yml -n cml_tfr_env
 
 Due to the multi-site nature of the dataset, a study permit is required at each participating site. Please contact the corresponding author for data access.
 
-## Contact
-
-**Mikko Purhonen**  
-Email: mikko.purhonen@helsinki.fi
-
 ---
