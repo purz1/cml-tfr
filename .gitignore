@@ -1,0 +1,25 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyc
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+
+# VSCode and other editor configs
+.vscode/
+.idea/
+
+# Jupyter Notebook runtime files
+*.nbconvert.ipynb
+
+# Logs and local config
+*.log
+*.env
+
