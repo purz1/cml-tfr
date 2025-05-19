@@ -2,7 +2,7 @@
 
 This repository contains the code used to analyze cytomorphology data in the manuscript: 
 
-**Granulocyte Abundance and Maturation State at Diagnosis Predicts Treatment-Free Remission in CML**  
+***Granulocyte Abundance and Maturation State at Diagnosis Predicts Treatment-Free Remission in CML***  
 
 ---
 
