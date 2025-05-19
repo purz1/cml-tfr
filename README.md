@@ -1,4 +1,4 @@
-# 📄Hematoscope CML-TFR project
+# 📄CML-TFR project
 
 This repository contains the code used to analyze cytomorphology data in the manuscript:
 
