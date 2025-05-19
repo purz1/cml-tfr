@@ -1,10 +1,6 @@
 # 📄CML-TFR project
 
-This repository contains the code used to analyze cytomorphology data in the manuscript:
-
-**Title**: *Granulocyte Abundance and Maturation State at Diagnosis Predicts Treatment-Free Remission in CML*  
-**First author**: Mikko Purhonen
-
+This repository contains the code used to analyze cytomorphology data in the manuscript: **Granulocyte Abundance and Maturation State at Diagnosis Predicts Treatment-Free Remission in CML**  
 ---
 
 ## Dependencies
